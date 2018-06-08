@@ -19,7 +19,7 @@ https://github.com/amanullah-1/tm-rnd-test.git
 
 ###### create a  fresh database in mysql
 
-###### import the tm-rnd-test.sql file to your newly created database
+###### import the tm-rnd-test.sql file to your newly created database from https://github.com/amanullah-1/tm-rnd-test/blob/master/tm-rnd-test.sql
 
 
 ###### chage the ```.env ``` file according to your database credentials

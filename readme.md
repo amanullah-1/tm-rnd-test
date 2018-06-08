@@ -1,6 +1,6 @@
 
 
-## About framework
+## The PHP MVC framework laravel is used for this project
 
 Laravel 5.6 is used for the project.
 

@@ -24,6 +24,19 @@ chage the .env file according to your database credentials
 
 run php artisan serve
 
+goto browser : http://localhost:8000/admin/
+
+login as user: admin, password: admin
+
+select tickets from left menu 
+
+or just goto : http://localhost:8000/admin/tickets
+
+you can check the dashboard.
+
+Thanks and regards
+Aman Ullah
+
 
 
 

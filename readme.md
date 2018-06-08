@@ -24,6 +24,8 @@ https://github.com/amanullah-1/tm-rnd-test.git
 
 ###### chage the ```.env ``` file according to your database credentials
 
+###### goto the project directory in cli
+
 
 ###### run ``` php artisan serve ```
 

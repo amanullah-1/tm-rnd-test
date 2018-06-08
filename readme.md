@@ -25,7 +25,7 @@ https://github.com/amanullah-1/tm-rnd-test.git
 ###### chage the .env file according to your database credentials
 
 
-###### run `<addr>` php artisan serve
+###### run ``` php artisan serve ```
 
 
 ###### goto browser : http://localhost:8000/admin/

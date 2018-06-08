@@ -22,7 +22,7 @@ https://github.com/amanullah-1/tm-rnd-test.git
 ###### import the tm-rnd-test.sql file to your newly created database
 
 
-###### chage the .env file according to your database credentials
+###### chage the ```.env ``` file according to your database credentials
 
 
 ###### run ``` php artisan serve ```
